@@ -1,7 +1,7 @@
 button {
   text-align: center;
-  width: 50px;
-  background-color: white;
+  width: 200px;
+  background-color: #B2B2B2;
   border: 2px solid black;
   border-radius: 20px;
 }
